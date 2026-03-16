@@ -10,3 +10,8 @@ ex 7: Crie uma estrutura para solicitar nome, sobrenome,cpf, endereço e cep par
 A) Nome completo 
 B)Nome completo e cpf
 C)Endereço e cpf
+
+exercicio desafio: 
+para a equaçao do 2 grau abaixo, determine os valores de x1 e x2:
+
+10X^2 + 3X + 1
