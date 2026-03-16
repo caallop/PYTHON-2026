@@ -5,3 +5,8 @@ Ex 4: crie um algoritimo para solicitar a distancia e tempo para o usuario e ret
 Ex 5:cie um algoritimo para solicitar a massa para o usuario e retorne a energia (E = M X C^2)
 
 Ex 6: dada a equaçao a^2 = b^2 + c^2, solicite o valor de a, c e calcule o valor de b
+
+ex 7: Crie uma estrutura para solicitar nome, sobrenome,cpf, endereço e cep para o usuario. ao final, retorne:
+A) Nome completo 
+B)Nome completo e cpf
+C)Endereço e cpf
