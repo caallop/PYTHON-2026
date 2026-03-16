@@ -1,0 +1,7 @@
+Ex 3: crie um algoritimo com estrutura de input para o usuario solicitar a distancia em km e retornar o valor em metros e em com
+
+Ex 4: crie um algoritimo para solicitar a distancia e tempo para o usuario e retornar a velocidade media em km/h"
+
+Ex 5:cie um algoritimo para solicitar a massa para o usuario e retorne a energia (E = M X C^2)
+
+Ex 6: dada a equaçao a^2 = b^2 + c^2, solicite o valor de a, c e calcule o valor de b
