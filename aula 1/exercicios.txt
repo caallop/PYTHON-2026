@@ -1,3 +1,5 @@
+exercicios da aula um e algumas anotaçoes
+
 Ex 3: crie um algoritimo com estrutura de input para o usuario solicitar a distancia em km e retornar o valor em metros e em com
 
 Ex 4: crie um algoritimo para solicitar a distancia e tempo para o usuario e retornar a velocidade media em km/h"
@@ -11,7 +13,26 @@ A) Nome completo
 B)Nome completo e cpf
 C)Endereço e cpf
 
-exercicio desafio: 
+exercicio desafio (8): 
 para a equaçao do 2 grau abaixo, determine os valores de x1 e x2:
 
 10X^2 + 3X + 1
+
+_____________________________________________________________________________________________________________________________________________________________________
+                                        INTERVALO
+______________________________________________________________________________________________________________________________________________________
+
+ESTRUTURA DO IF, ELSE E ELIF
+
+if <variavel 1> <condiçao> <condiçao>
+ piriripororo
+elif  <variavel (ou doius)> <condiçao> <condiçao>
+ piriripororo
+else: 
+ piriripororo
+
+ == => significa que: identico a
+ >=  esse é facil
+ <=  esse tbm
+
+exercicio 9: crie um algoritimo para solicitar nome, sobrenome e cpf para o usuario, se o nome e o sobrenome estiver correto, mostre que sera verificar o cpf, se o nome sorenome e cpf estiverem corretos, mostre acesso vip permitido, se ou o sobrenome, nome e cpf estiverem corretos, mostre que sera veificado. qualquer outra condiçao, acesso negado
