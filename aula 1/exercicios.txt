@@ -36,3 +36,11 @@ else:
  <=  esse tbm
 
 exercicio 9: crie um algoritimo para solicitar nome, sobrenome e cpf para o usuario, se o nome e o sobrenome estiver correto, mostre que sera verificar o cpf, se o nome sorenome e cpf estiverem corretos, mostre acesso vip permitido, se ou o sobrenome, nome e cpf estiverem corretos, mostre que sera veificado. qualquer outra condiçao, acesso negado
+
+exercicio 10: calculo de desconto do inss. solicite o salario para o usuario e retorne o valor a ser descontado e o valor a ser recebido.
+faixa salarial(R$)           Aliquota           parcela a deduzir(R$):
+Ate 1621,00                  7,5%                        -
+de 1621,01 até 2902,84       9,0%                       24,32                    
+de 1621,85  até 2902,27      12,00%                     111,40                    
+de 1621,28 até 2902,55       14,00%                     198,49
+
