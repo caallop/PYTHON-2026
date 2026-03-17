@@ -6,4 +6,4 @@ if renda >= 3000 and score >=700:
 elif renda >= 2000 and score >= 600:
     print("estamos verificando manualmente! aguarde na linha ")
 else:
-    print("acesso negado. ")
+    print("acesso negado.(nao sobra nada) ")
