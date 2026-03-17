@@ -44,3 +44,7 @@ de 1621,01 até 2902,84       9,0%                       24,32
 de 1621,85  até 2902,27      12,00%                     111,40                    
 de 1621,28 até 2902,55       14,00%                     198,49
 
+exercicio 11: classificaçao de credito: solicite a renda mensal e score de credito e crie as seguintes regras:
+aprovado - renda => 3000 and score >= 700
+analise manual - renda => 2000 and score >= 600
+caso contrario - negado 
