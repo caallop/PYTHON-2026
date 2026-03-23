@@ -1,0 +1,21 @@
+exercícios da aula um e algumas anotações.(23/03)
+
+exercício 1: sistema de login com nivel de acesso. solicite usuário e senha. se usuario é igual a admin,crie uma condição aninhada para solicitar senha e se a mesma for "1234", mostre que o usuario tera acesso total. caso o usuario insira a senha incorreta, moestre senha incorreta. caso o usuario insira usuário incorreto, mostre usuario incorreto.
+
+
+exercício 2: classificaçao de idade. solicite a ideidade, se for maior ou igual a 18, crie uma estrutura de condição para verificar se a idade é maior ou igual a 60, se for, mostre que é idoso, senao mostre que é adulto. se a idade for maior ou igual a 12, adolescente, senao, criança
+
+
+exercício 3: aprovaçao com distinçao. solicite a nota, se nota for maior ou igial a 6, crie a condiçao para verificar se foi maior que 9, caso seja, foi aprovado com execelencia, se nota não for maior ou igual a 6, reprovado
+
+
+exercício 4:verificaçao de numeros. solicite numeros e verifique se é mairo do que ero, se for, cire uma estrutura de condiçao alinhada para verificar se este numero é par, se for, print positi e par, se nao for, positivo e impar, se o numero for igual a zero, print zero, caso contrario é negativo
+
+
+exercício 5:sistema de desconto: solicite o valor e se a pesosa é vip ou nao. se o valor maior ou igual 200m crie uma estrutura de cidulai oara verufucar se a pessoa é vip, s for, ofereça 20% de desconto sobre o valor e mostre o valor a ser descontado e o valor final, considerand o desconto, se nao for vip, ofereça o desconto de 10%
+
+
+exercício 6: crie um algoritmo para perguntar para o usuario qual o dia da semana, caso seja sabad escreba dia de festa, caso seja domingo oergunte soobre a condiçao fisica do usuario, se estuver cin dires de caveça, print recuperando, estao precisa descansar. caso contrario, apenas descanse. caso nao seja sabado ou domingo, mostre trabaçlhando trabalhando trabalhando.
+
+
+

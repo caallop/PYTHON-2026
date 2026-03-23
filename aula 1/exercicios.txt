@@ -1,4 +1,4 @@
-exercícios da aula um e algumas anotações
+exercícios da aula um e algumas anotações (16/03)
 
 Ex 3: crie um algoritmo com estrutura de input para o usuário solicitar a distancia em km e retornar o valor em metros e em com
 
