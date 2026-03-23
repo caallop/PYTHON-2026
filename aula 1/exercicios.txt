@@ -1,20 +1,20 @@
-exercicios da aula um e algumas anotaçoes
+exercícios da aula um e algumas anotações
 
-Ex 3: crie um algoritimo com estrutura de input para o usuario solicitar a distancia em km e retornar o valor em metros e em com
+Ex 3: crie um algoritmo com estrutura de input para o usuário solicitar a distancia em km e retornar o valor em metros e em com
 
-Ex 4: crie um algoritimo para solicitar a distancia e tempo para o usuario e retornar a velocidade media em km/h"
+Ex 4: crie um algoritmo para solicitar a distancia e tempo para o usuário e retornar a velocidade media em km/h"
 
-Ex 5:cie um algoritimo para solicitar a massa para o usuario e retorne a energia (E = M X C^2)
+Ex 5:cie um algoritmo para solicitar a massa para o usuário e retorne a energia (E = M X C^2)
 
-Ex 6: dada a equaçao a^2 = b^2 + c^2, solicite o valor de a, c e calcule o valor de b
+Ex 6: dada a equação a^2 = b^2 + c^2, solicite o valor de a, c e calcule o valor de b
 
-ex 7: Crie uma estrutura para solicitar nome, sobrenome,cpf, endereço e cep para o usuario. ao final, retorne:
+ex 7: Crie uma estrutura para solicitar nome, sobrenome,cpf, endereço e cep para o usuário. ao final, retorne:
 A) Nome completo 
 B)Nome completo e cpf
 C)Endereço e cpf
 
-exercicio desafio (8): 
-para a equaçao do 2 grau abaixo, determine os valores de x1 e x2:
+exercício desafio (8): 
+para a equação do 2 grau abaixo, determine os valores de x1 e x2:
 
 10X^2 + 3X + 1
 
@@ -24,27 +24,27 @@ ________________________________________________________________________________
 
 ESTRUTURA DO IF, ELSE E ELIF
 
-if <variavel 1> <condiçao> <condiçao>
+if <variável 1> <condição> <condição>
  piriripororo
-elif  <variavel (ou doius)> <condiçao> <condiçao>
+elif  <condição (ou dois)> <condição> <condição>
  piriripororo
 else: 
  piriripororo
 
- == => significa que: identico a
- >=  esse é facil
+ == => significa que: idêntico a
+ >=  esse é fácil
  <=  esse tbm
 
-exercicio 9: crie um algoritimo para solicitar nome, sobrenome e cpf para o usuario, se o nome e o sobrenome estiver correto, mostre que sera verificar o cpf, se o nome sorenome e cpf estiverem corretos, mostre acesso vip permitido, se ou o sobrenome, nome e cpf estiverem corretos, mostre que sera veificado. qualquer outra condiçao, acesso negado
+exercício 9: crie um algoritmo para solicitar nome, sobrenome e cpf para o usuário, se o nome e o sobrenome estiver correto, mostre que sera verificar o cpf, se o nome sorenome e cpf estiverem corretos, mostre acesso vip permitido, se ou o sobrenome, nome e cpf estiverem corretos, mostre que sera veificado. qualquer outra condição, acesso negado
 
-exercicio 10: calculo de desconto do inss. solicite o salario para o usuario e retorne o valor a ser descontado e o valor a ser recebido.
+exercício 10: calculo de desconto do inss. solicite o salario para o usuário e retorne o valor a ser descontado e o valor a ser recebido.
 faixa salarial(R$)           Aliquota           parcela a deduzir(R$):
 Ate 1621,00                  7,5%                        -
 de 1621,01 até 2902,84       9,0%                       24,32                    
 de 1621,85  até 2902,27      12,00%                     111,40                    
 de 1621,28 até 2902,55       14,00%                     198,49
 
-exercicio 11: classificaçao de credito: solicite a renda mensal e score de credito e crie as seguintes regras:
+exercício 11: classificação de credito: solicite a renda mensal e score de credito e crie as seguintes regras:
 aprovado - renda => 3000 and score >= 700
 analise manual - renda => 2000 and score >= 600
 caso contrario - negado 
