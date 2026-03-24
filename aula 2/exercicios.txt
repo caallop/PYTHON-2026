@@ -1,21 +1,13 @@
-exercícios da aula um e algumas anotações.(23/03)
+Exercícios da aula um e algumas anotações (23/03).
 
-exercício 1: sistema de login com nivel de acesso. solicite usuário e senha. se usuario é igual a admin,crie uma condição aninhada para solicitar senha e se a mesma for "1234", mostre que o usuario tera acesso total. caso o usuario insira a senha incorreta, moestre senha incorreta. caso o usuario insira usuário incorreto, mostre usuario incorreto.
+Exercício 1: sistema de login com nível de acesso. Solicite usuário e senha. Se usuário é igual a admin, crie uma condição aninhada para solicitar senha e se a mesma for "1234", mostre que o usuário terá acesso total. Caso o usuário insira a senha incorreta, mostre senha incorreta. Caso o usuário insira usuário incorreto, mostre usuário incorreto.
 
+Exercício 2: classificação de idade. Solicite a idade, se for maior ou igual a 18, crie uma estrutura de condição para verificar se a idade é maior ou igual a 60, se for, mostre que é idoso, senão mostre que é adulto. Se a idade for maior ou igual a 12, adolescente, senão, criança.
 
-exercício 2: classificaçao de idade. solicite a ideidade, se for maior ou igual a 18, crie uma estrutura de condição para verificar se a idade é maior ou igual a 60, se for, mostre que é idoso, senao mostre que é adulto. se a idade for maior ou igual a 12, adolescente, senao, criança
+Exercício 3: aprovação com distinção. Solicite a nota, se nota for maior ou igual a 6, crie a condição para verificar se foi maior que 9, caso seja, foi aprovado com excelência, se nota não for maior ou igual a 6, reprovado.
 
+Exercício 4: verificação de números. Solicite números e verifique se é maior do que zero, se for, crie uma estrutura de condição aninhada para verificar se este número é par, se for, printe positivo e par, se não for, positivo e ímpar, se o número for igual a zero, printe zero, caso contrário é negativo.
 
-exercício 3: aprovaçao com distinçao. solicite a nota, se nota for maior ou igial a 6, crie a condiçao para verificar se foi maior que 9, caso seja, foi aprovado com execelencia, se nota não for maior ou igual a 6, reprovado
+Exercício 5: sistema de desconto: solicite o valor e se a pessoa é vip ou não. Se o valor maior ou igual a 200, crie uma estrutura de condição para verificar se a pessoa é vip, se for, ofereça 20% de desconto sobre o valor e mostre o valor a ser descontado e o valor final, considerando o desconto, se não for vip, ofereça o desconto de 10%.
 
-
-exercício 4:verificaçao de numeros. solicite numeros e verifique se é mairo do que ero, se for, cire uma estrutura de condiçao alinhada para verificar se este numero é par, se for, print positi e par, se nao for, positivo e impar, se o numero for igual a zero, print zero, caso contrario é negativo
-
-
-exercício 5:sistema de desconto: solicite o valor e se a pesosa é vip ou nao. se o valor maior ou igual 200m crie uma estrutura de cidulai oara verufucar se a pessoa é vip, s for, ofereça 20% de desconto sobre o valor e mostre o valor a ser descontado e o valor final, considerand o desconto, se nao for vip, ofereça o desconto de 10%
-
-
-exercício 6: crie um algoritmo para perguntar para o usuario qual o dia da semana, caso seja sabad escreba dia de festa, caso seja domingo oergunte soobre a condiçao fisica do usuario, se estuver cin dires de caveça, print recuperando, estao precisa descansar. caso contrario, apenas descanse. caso nao seja sabado ou domingo, mostre trabaçlhando trabalhando trabalhando.
-
-
-
+Exercício 6: crie um algoritmo para perguntar para o usuário qual o dia da semana, caso seja sábado escreva dia de festa, caso seja domingo pergunte sobre a condição física do usuário, se estiver com dores de cabeça, printe recuperando, senão precisa descansar. Caso contrário, apenas descanse. Caso não seja sábado ou domingo, mostre trabalhando trabalhando trabalhando.
