@@ -11,3 +11,15 @@ Exercício 4: verificação de números. Solicite números e verifique se é mai
 Exercício 5: sistema de desconto: solicite o valor e se a pessoa é vip ou não. Se o valor maior ou igual a 200, crie uma estrutura de condição para verificar se a pessoa é vip, se for, ofereça 20% de desconto sobre o valor e mostre o valor a ser descontado e o valor final, considerando o desconto, se não for vip, ofereça o desconto de 10%.
 
 Exercício 6: crie um algoritmo para perguntar para o usuário qual o dia da semana, caso seja sábado escreva dia de festa, caso seja domingo pergunte sobre a condição física do usuário, se estiver com dores de cabeça, printe recuperando, senão precisa descansar. Caso contrário, apenas descanse. Caso não seja sábado ou domingo, mostre trabalhando trabalhando trabalhando.
+
+exercico 7: crie um algoritmo para solicitar a escolha do menu do cafe da manha 
+
+1. egg
+2. pancakes
+3. wafles
+4.frutas
+
+se for eggs, perguntar o tipo de acompanhamento
+se for frutas, perguntar o tipo de fruta e acompanhamento
+
+para cada caso, traga um informação com print
