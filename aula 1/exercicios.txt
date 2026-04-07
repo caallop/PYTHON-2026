@@ -10,8 +10,8 @@ Ex 6: dada a equação a^2 = b^2 + c^2, solicite o valor de a, c e calcule o val
 
 ex 7: Crie uma estrutura para solicitar nome, sobrenome,cpf, endereço e cep para o usuário. ao final, retorne:
 A) Nome completo 
-B)Nome completo e cpf
-C)Endereço e cpf
+B) Nome completo e cpf
+C) Endereço e cpf
 
 exercício desafio (8): 
 para a equação do 2 grau abaixo, determine os valores de x1 e x2:

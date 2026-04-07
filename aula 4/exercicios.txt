@@ -1,0 +1,30 @@
+Exercícios da aula um e algumas anotações (06/04).
+
+listas = []
+
+for i in range (5)
+ print(i)
+
+-----> visitar python tutuor <-----
+
+exercício 1 - listar numeros
+
+exercício 2 -  mostra que as listas podem ter algo colocado dentro, assim como no exercucui
+exercício 3 - mostrar que, o k (variavel do in range) assume o valor da lista ou variavel
+exercício 4 - some a media de valores digitados pelo usuario. crie um algoritmo para solicitar 5 valores nao intieros , isira em uma lista. após isso, crie uma estrutura para somar e retornar a media dos elementos dessa lista
+
+exercício 5 - crie uma estrutura para solicitar 10 numeros para o usuario, apos isso crie duas listas (impar e par) e insita os valores pares na lista oar e os valores impar, nas listas impar. print lista completa, lista par e lista impar.
+
+exercício 6 - crie um algoritmo para cadastro de alunos osnde deve ser solicitado nome e idade 5 vezes, porem a informaçao deve aparecer com lista dentro de lista, ou seja: [nome 1, idade1], [nome2, idade2],.., e assim por diante,print lista final.
+
+exercício 7 - vamos fazer um algoritmo para cafastro com media, solicite 3 informaçoes, nme, nota 1 e nota 2 trez vezes, apos isso calcule a media de cada aluno e retorne uma lista contendo nome, nota1, nota2, media d ecada aluno
+
+exercício 8 - crie um algorimo apra simular um sistema de compras, onde deverá ser solicitado nome 100x. após isso crie uma estrutura para solicitar preço, com isso, deixe o respectio nome e preço huntos. finalmente, mostre o valor total do produto
+
+exercício 9 - crie um algoritmo para solicitar nome e nota para 4 alunos. insita em uma estrutura com lista dentro de lista (nome, nota). após isso, crie uma estrutura para mostrar os alunaos aprovados com nota maior ou igual a 6, mostrando o respectivo nome e nota, crie tambem uma estrutura para mostrar os alnos com nota menor do que 6 e mostre o nome e nota
+
+exercício 10 - crie um algoritmo para simular sistema com menu. o usuario pode cadastras, listar ou sair da estrtura.
+
+se opçao 11, solicite nome, idade, cidade e deixe etas informaçoes em uma estrutura de lista dentro de lista, 
+se opçao 2, print o respectivo nome, idade e cidade da pessoa, 
+se opçao 3, crie uma estrutura para sair do codigo
