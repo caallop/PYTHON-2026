@@ -1,0 +1,24 @@
+Exercícios da aula um e algumas anotações (13/04).
+
+for i in range(3):
+   print(f"O i sera {i}")
+
+Exercício 1: apenas exemplo
+Exercício 2: apenas exemplo
+Exercício 3: apenas exemplo
+Exercício 4: apenas exemplo
+Exercício 5: apenas exemplo
+
+
+
+Exercício 6: entre a soma dos numeros em uma lista usando while 
+lista [23, 45, 12, 10, 25]
+lista[i]
+
+Exercício 7: crie um programa que solicite 5 numeros inteiros e decremente os valores inseridos pelo usuario
+
+Exercício 8: crie um prgrama para gerar uma taboada, a partir de duas variaveis, (numero limite)
+
+Exercício 9: a partir da var word = "engenharia de sofware".    se a indice da word == 'e' or 'o'  
+
+exercicio 10: criar um programa que solicite 5 nomes e insira em uma lista
