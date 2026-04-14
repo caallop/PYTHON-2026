@@ -22,3 +22,13 @@ Exercício 8: crie um prgrama para gerar uma taboada, a partir de duas variaveis
 Exercício 9: a partir da var word = "engenharia de sofware".    se a indice da word == 'e' or 'o'  
 
 exercicio 10: criar um programa que solicite 5 nomes e insira em uma lista
+
+exercicio 11:cadastro de alunos: crie um aloritmo que solicite 3 nomes e 3 idades. deice a informação em uma lista no formato nome - idade
+
+exercicio 12:crie uma estrutura que solicite itens de compra de forma que só seja possivel sair da estrutura de repetição caso o usuario digite sair. coloque os itens em uma lista
+
+exercicio 13:crie um programa que solicite 5 números inteiros, armazene em uma lista seu valor ao quadrado. [numero, numero**2]
+
+exercicio 14: crie um programa qie slicite nome, curso e idade de 3 pessoas, armazene cada pessoa como uma lista dentro de ma lita_completa
+
+exercicio 15: Crie um programa que solicite numeros para o usuario pare quando digitar 0, armazene os nmeros em uma lista mostre a lista completa e a soma dos valores

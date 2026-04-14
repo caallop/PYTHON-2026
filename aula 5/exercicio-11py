@@ -1,0 +1,8 @@
+#exercicio 11:cadastro de alunos: crie um aloritmo que solicite 3 nomes e 3 idades. deice a informação em uma lista no formato nome - idade
+lista = []
+while len(lista) < 3:
+    nome = input("qual o nome: ")
+    idade = int(input("qual a idade: "))
+    pessoa = [nome, idade]
+    lista.append(pessoa)
+    print(lista)
