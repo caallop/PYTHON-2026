@@ -1,0 +1,22 @@
+estruturas de comparação: for while 
+
+1 até 5: são exemplos de utilização de cada um dos loops
+
+Exercício 6: crie um algoritmo usando while true para simular um menu interativo, se a opção for 1, print olá, se a opção for igual a 2, print sair
+
+Exercício 7: crie um alguritmo usando while true para ignorar valores negativos. se o numero for 0, quebre a estrutura de repetição caso contrario, envie cada numero para uma lista
+
+Exercício 8: crie um algoritmo para solicitar nome, porém mande apenas os nomes que forem >= 3 para a lista de nomes
+
+Exercício 9: crie um algoritmo com listas de notas validos. se -1 pare a estrutura, se nota >0 ou nota < 10 coninue, ao final, calcule a media das notas
+
+Exercício 10: vamos criar um sistemas de menu simples
+
+1. adicionar numero
+2. remover ultimo numero
+3. mostrar lista
+4. sair
+
+Exercício 11: filtrar palavras com letras proibidas, se aparecer palavras com x, não mostrar
+
+Exercício 12: criar um programa a qual ao selecionar opção 1, solicita e envia nomes para uma lista de nomes, se 2, solicia e envia os cpfs para uma lista, se 3, solicida e envia a idade para uma lista
