@@ -1,0 +1,53 @@
+Exercícios da aula um e algumas anotações (04/05).
+
+04/05: Estruturas com dataframes e match/case
+
+11/05: função def
+
+18/05: checpoint 3
+
+25/05: GS
+
+já aprendemos
+estrutura de entrada e saida
+condição (if,elif,else)
+repetição (while/for)
+listas e listas dentro de listas
+try/except
+
+para aprender: 
+match/case
+função def
+
+
+Exercício 1: crie uma estrtura cim try/exceptpara converter temperaturatura celcius em fahreinht
+
+fahreinht = (celcius * 9/5) + 32
+
+Exercício 2: crie uma estrtura com try/except a qyak cacule e traga um erri oara calcular a area de um retangulo e circulo com estrutura input para o usuario. além dissso, o usuario deve escolher a figura geometica
+
+Exercício 3: 
+
+Exercício 4: 
+
+Exercício 5: 
+
+Exercício 6: 
+
+Exercício 7: 
+
+Exercício 8: 
+
+Exercício 9: 
+
+exercicio 10:
+
+exercicio 11:
+
+exercicio 12:
+
+exercicio 13:
+
+exercicio 14: 
+
+exercicio 15:
