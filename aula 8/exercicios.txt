@@ -1,0 +1,47 @@
+Exercícios da aula um e algumas anotações (04/05).
+
+04/05: Estruturas com dataframes e match/case
+
+11/05: função def
+
+18/05: checpoint 3
+
+25/05: GS
+
+fahreinht = (celcius * 9/5) + 32
+
+
+Exercício 1: #match/case e while:
+
+#comando sair = -saindo da entrutura.
+#case = sair - encerrando
+#case qualquer outra coisa - comando invalido
+
+Exercício 2: #crie um algoritmo para solicitar a temperatura em celcius e transformar para fareihneit
+
+
+Exercício 3: crie uma estrutura para oslicitar o tipo de figura geometica, apos isso, mostre como calcular a area e o perimetro de cada figura geometrica
+
+Exercício 4: 
+
+Exercício 5: 
+
+Exercício 6: 
+
+Exercício 7: 
+
+Exercício 8: 
+
+Exercício 9: 
+
+exercicio 10:
+
+exercicio 11:
+
+exercicio 12:
+
+exercicio 13:
+
+exercicio 14: 
+
+exercicio 15:
