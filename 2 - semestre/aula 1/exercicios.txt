@@ -1,0 +1,393 @@
+anotações (16/03)
+
+AULA DE PYTHON — TUPLAS
+
+1. O QUE É UMA TUPLA?
+
+Uma tupla é uma estrutura de dados usada para guardar vários valores dentro de uma única variável.
+
+Por exemplo, imagine que queremos guardar as coordenadas de um ponto:
+
+ponto = (10, 20)
+
+Aqui temos uma tupla com dois valores:
+
+10 -> coordenada X
+20 -> coordenada Y
+
+A tupla é representada normalmente por parênteses ().
+
+Exemplo:
+
+frutas = ("maçã", "banana", "laranja")
+
+2. TUPLA VS. VARIÁVEL COMUM
+
+Sem uma tupla, poderíamos fazer:
+
+fruta1 = "maçã"
+fruta2 = "banana"
+fruta3 = "laranja"
+
+Mas podemos juntar tudo:
+
+frutas = ("maçã", "banana", "laranja")
+
+Agora a variável "frutas" guarda os três valores.
+
+Podemos imaginar assim:
+
+frutas
+|
+v
+
++----------+-----------+-----------+
+| "maçã"   | "banana"  | "laranja" |
++----------+-----------+-----------+
+0           1           2
+
+Cada elemento possui uma posição, chamada de índice.
+
+3. COMO ACESSAR OS ELEMENTOS?
+
+Assim como nas listas, o primeiro elemento começa no índice 0.
+
+Exemplo:
+
+frutas = ("maçã", "banana", "laranja")
+
+print(frutas[0])
+
+Resultado:
+
+maçã
+
+Segundo elemento:
+
+print(frutas[1])
+
+Resultado:
+
+banana
+
+Terceiro elemento:
+
+print(frutas[2])
+
+Resultado:
+
+laranja
+
+Lembre-se:
+
+"maçã"   -> índice 0
+"banana" -> índice 1
+"laranja" -> índice 2
+
+4. A PRINCIPAL CARACTERÍSTICA DA TUPLA
+
+Aqui está uma das coisas mais importantes:
+
+Tuplas são IMUTÁVEIS.
+
+Isso significa que, depois de criada, você não pode alterar seus elementos.
+
+Por exemplo:
+
+frutas = ("maçã", "banana", "laranja")
+
+frutas[0] = "uva"
+
+Isso dará erro.
+
+Por quê?
+
+Porque a tupla não permite que você faça:
+
+"maçã" -> "uva"
+
+Depois de criada, ela fica protegida contra esse tipo de alteração.
+
+5. TUPLA E LISTA: QUAL A DIFERENÇA?
+
+Essa é uma pergunta muito importante em Python.
+
+Lista:
+
+frutas = ["maçã", "banana", "laranja"]
+
+Tupla:
+
+frutas = ("maçã", "banana", "laranja")
+
+A diferença principal:
+
+LISTA
+
+* Usa []
+* Pode ser alterada
+* É mutável
+* Boa para dados que mudam
+
+TUPLA
+
+* Usa ()
+* Não pode ser alterada
+* É imutável
+* Boa para dados que não devem mudar
+
+6. PODEMOS PERCORRER UMA TUPLA
+
+Assim como fazemos com listas, podemos usar for.
+
+Exemplo:
+
+frutas = ("maçã", "banana", "laranja")
+
+for fruta in frutas:
+print(fruta)
+
+Resultado:
+
+maçã
+banana
+laranja
+
+O Python pega cada elemento da tupla e coloca temporariamente dentro da variável "fruta".
+
+É como dizer:
+
+"Para cada fruta dentro de frutas, mostre a fruta."
+
+7. PODEMOS DESCOBRIR O TAMANHO
+
+Usamos len():
+
+frutas = ("maçã", "banana", "laranja")
+
+print(len(frutas))
+
+Resultado:
+
+3
+
+Porque temos três elementos.
+
+8. PODEMOS VERIFICAR SE ALGO ESTÁ DENTRO DA TUPLA
+
+Usamos "in":
+
+frutas = ("maçã", "banana", "laranja")
+
+print("banana" in frutas)
+
+Resultado:
+
+True
+
+Agora:
+
+print("uva" in frutas)
+
+Resultado:
+
+False
+
+Ou seja:
+
+"banana" in frutas
+
+significa:
+
+"Banana está dentro da tupla?"
+
+9. UMA TUPLA PODE TER DIFERENTES TIPOS DE DADOS
+
+Não precisa ser apenas texto.
+
+Podemos fazer:
+
+pessoa = ("João", 25, 1.75)
+
+Temos:
+
+"João" -> string
+25     -> inteiro
+1.75   -> float
+
+Também podemos ter:
+
+dados = ("Maria", 30, True, 1.65)
+
+10. TUPLAS PODEM SER USADAS PARA REPRESENTAR INFORMAÇÕES
+
+Imagine um cadastro:
+
+aluno = ("Carlos", 20, "Python")
+
+Podemos acessar:
+
+print(aluno[0])
+print(aluno[1])
+print(aluno[2])
+
+Resultado:
+
+Carlos
+20
+Python
+
+Podemos interpretar:
+
+aluno[0] -> nome
+aluno[1] -> idade
+aluno[2] -> curso
+
+11. UMA COISA MUITO INTERESSANTE: DESEMPACOTAMENTO
+
+Olha isso:
+
+aluno = ("Carlos", 20, "Python")
+
+Podemos fazer:
+
+nome, idade, curso = aluno
+
+Agora:
+
+print(nome)
+print(idade)
+print(curso)
+
+Resultado:
+
+Carlos
+20
+Python
+
+O Python distribuiu os valores:
+
+aluno
+|
+v
+
+("Carlos", 20, "Python")
+|       |       |
+v       v       v
+nome    idade    curso
+
+Isso é chamado de desempacotamento de tupla
+(tuple unpacking).
+
+12. CUIDADO COM A TUPLA DE UM ÚNICO ELEMENTO
+
+Existe uma pegadinha interessante.
+
+Isso:
+
+numero = (10)
+
+NÃO é uma tupla.
+
+É apenas o número 10.
+
+Para criar uma tupla com um único elemento, precisamos colocar uma vírgula:
+
+numero = (10,)
+
+Agora sim é uma tupla.
+
+Podemos verificar:
+
+print(type(numero))
+
+Resultado:
+
+<class 'tuple'>
+
+A vírgula é o que realmente importa nesse caso.
+
+13. EXERCÍCIOS
+
+EXERCÍCIO 1
+
+Crie uma tupla chamada "cores" contendo:
+
+vermelho
+azul
+verde
+amarelo
+
+Depois mostre o terceiro elemento.
+
+EXERCÍCIO 2
+
+Observe:
+
+numeros = (10, 20, 30, 40, 50)
+
+Qual será o resultado de:
+
+print(numeros[0])
+print(numeros[3])
+
+EXERCÍCIO 3
+
+O que acontecerá aqui?
+
+frutas = ("maçã", "banana", "uva")
+
+frutas[1] = "laranja"
+
+Por quê?
+
+EXERCÍCIO 4 — DESEMPACOTAMENTO
+
+Faça:
+
+pessoa = ("Ana", 25, "Programadora")
+
+E transforme os três valores nas variáveis:
+
+nome
+idade
+profissao
+
+RESUMINDO A AULA
+
+Guarde estas ideias:
+
+# Criar uma tupla
+
+frutas = ("maçã", "banana", "uva")
+
+# Acessar
+
+print(frutas[0])
+
+# Tamanho
+
+print(len(frutas))
+
+# Verificar
+
+print("uva" in frutas)
+
+# Percorrer
+
+for fruta in frutas:
+print(fruta)
+
+# Desempacotar
+
+nome, idade, profissao = ("Ana", 25, "Programadora")
+
+E principalmente:
+
+Tupla = coleção ordenada e imutável de valores.
+
+Se você está começando Python, o próximo passo ideal é aprender:
+
+LISTAS -> TUPLAS -> CONJUNTOS (SET) -> DICIONÁRIOS (DICT)
+
+Comparar essas estruturas é muito importante para realmente entender estruturas de dados em Python.
