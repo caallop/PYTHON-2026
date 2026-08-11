@@ -1,0 +1,4 @@
+1 - peça  nomes e tres notas de um alunos via input(), guarde em dicionario, calcule a media e use if para imprimir "aprovado ou reprovado"
+2 - crie um dicionario conta com titular e saldo. peça um valor de saque, se maior que o saldo, imprima: "saldo insuficiente"
+3 - crie um dicionario livro com paginas_lidas e total_paginas; calcule o percentual lido e classifique com if.
+4 - usando .get() verifique se um dicionario cliente tem a chave desconto; se nao tiver, aplique 10% por padrão
