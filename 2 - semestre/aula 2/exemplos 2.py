@@ -6,9 +6,7 @@ print(cliente)
 
 
 cliente = {
-    'nome':{
-        
-    } ['vitoria'],
+    'nome': ['vitoria'],
     'idade': ['30'],
 }
 print(f"----------------------------------------------\n {cliente}")

@@ -1,5 +1,4 @@
 pessoa = {}
-pessoa = {}
 
 pessoa['nome'] = input("qual é o nome do aluno? ")
 pessoa['nota_1'] = int( input("qual é nota 1 do aluno? "))
@@ -11,3 +10,5 @@ if media >=6:
     print(f"\naprovado com: {media}")
 else:
     print(f"reprovado com: {media}")
+
+print(pessoa)
