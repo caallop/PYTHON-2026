@@ -1,0 +1,5 @@
+1 - Crie um algoritmo para calcular o desconto e mostrar o respectivo salário de uma determinada pessoa.
+Insira nome, salario, taxa de desconto (27,5%) e retorne o valor de desconto e o valor a ser recebido.
+Faça o teste para duas ou três pessoas. 
+
+2 - Para o exercício anterior, crie mais 4 objetos, crie uma lista de objetos, depois utilize uma estrutura de repetição para mostrar um texto com o respectivo desconto e salário a receber para cada pessoa.
