@@ -1,0 +1,9 @@
+
+1. Faça um filtro para retornar apenas máquinas do tipo L, depois H, depois M.
+2. Verifique quantos registros há para cada tipo de máquina.
+3. Verifique quantos registros existem para cada tipo de falha.
+4. Faça um filtro para mostrar apenas as informações da falha do tipo power failure.
+5. Verifique quantos registros há de cada tipo de máquina quando houver apenas o tipo de falha power failure.
+6. Plote a curva de temperatura do processo, depois a velocidade de rotação, depois o torque levando em conta o exercício 5.
+7. Será que é correto plotar os gráficos do exercício anterior? Porque sim ou não?
+8. Plote os gráficos do exercício anterior da forma correta.
