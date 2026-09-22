@@ -1,0 +1,18 @@
+
+Exercícios
+
+1. Utilizando os dados da API anterior, responda as seguinte perguntas:	
+
+a) Quais os valores médios, medianos, min e max das colunas "temperatura", "sensacao_termica",
+"umidade", "chuva_mm". 
+
+b) Em função da temperatura mediana, crie uma coluna que compara cada linha da coluna temperatura com a temperatura mediana e traga a informação se está abaixo, acima ou igual a mediana.
+
+c) Plote a temperatura e sensacao_térmica em um único gráfico.
+
+d) Foi possível observar as duas colunas em um mesmo gráfico? Ou por causa de alguma coluna, o gráfico ficou achatado?
+
+
+for item in ["temperatura", "sensacao_termica", "umidade", "chuva_mm"]:
+    for i in ["mean", "median", "min", "max"]:
+       print(f"{i} in {item}: {df[item].i()}")
